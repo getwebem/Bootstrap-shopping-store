@@ -1,0 +1,75 @@
+
+.navbar{
+    border-radius: 0;
+}
+
+body#login {
+  padding-top: 40px;
+  padding-bottom: 40px;
+  background-color: #1f87c2;
+    color:#fff;
+}
+
+body#login h2 {color: #fff;}
+
+.form-signin {
+  max-width: 330px;
+  padding: 15px;
+  margin: 0 auto;
+}
+.form-signin .form-signin-heading,
+.form-signin .checkbox {
+  margin-bottom: 10px;
+}
+.form-signin .checkbox {
+  font-weight: normal;
+}
+.form-signin .form-control {
+  position: relative;
+  height: auto;
+  box-sizing: border-box;
+  padding: 10px;
+  font-size: 16px;
+}
+.form-signin .form-control:focus {
+  z-index: 2;
+}
+.form-signin input[type="email"] {
+  margin-bottom: -1px;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+}
+.form-signin input[type="password"] {
+  margin-bottom: 10px;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+}
+
+footer{
+    position: absolute;
+    bottom: 0;
+    text-align: center;
+    background-color: #1f87c2;
+    color: #fff;
+    height: 60px;
+    width: 100%;
+    margin-top: 20px;
+    padding-top: 20px;
+    
+}
+
+.actions{
+    float: right;
+    margin-top: 40px;
+}
+
+
+.tablesorter-header{
+    cursor: pointer;
+}
+
+
+
+
+
+
