@@ -7,20 +7,8 @@
  - Run :  `Brackets .`
  - Open:  `Index.html`
  - Open:  `Live Preview`  
- 
- 
-<br/><br/>
-![pic1](https://raw.githubusercontent.com/getwebem/README/master/Alpha-CMS/Screen%20Shot%202017-03-13%20at%2016.18.16.png)
-<br/><br/>
+   - [View Demo](http://getwebem.com/alpha-cms/login.html)  
 
-![pic2](https://raw.githubusercontent.com/getwebem/README/master/Alpha-CMS/Screen%20Shot%202017-03-13%20at%2016.17.45.png)
 <br/><br/>
-
-![pic3](https://raw.githubusercontent.com/getwebem/README/master/Alpha-CMS/Screen%20Shot%202017-03-13%20at%2016.17.59.png)
+![pic1](https://raw.githubusercontent.com/getwebem/README/master/alpha-cms/Screen%20Shot%202017-08-03%20at%2022.12.51.png)
 <br/><br/>
-
-![pic4](https://raw.githubusercontent.com/getwebem/README/master/Alpha-CMS/Screen%20Shot%202017-03-13%20at%2016.18.02.png)
-<br/><br/>
-
-![pic5](https://raw.githubusercontent.com/getwebem/README/master/Alpha-CMS/Screen%20Shot%202017-03-13%20at%2016.18.02.png)
-
