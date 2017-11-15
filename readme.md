@@ -1,14 +1,20 @@
-# Online Shopping Clone
-### **Getting started**
+# Shopping Store
 ### Technologies Used
-#### HTML5, CSS3, Bootstrap 3.3, JavaScript ES5
- - Run :  `git clone https://github.com/getwebem/Alpha-CMS.git`
- - Run :  `cd Alpha-CMS`
- - Run :  `Brackets .`
- - Open:  `Index.html`
- - Open:  `Live Preview`  
-   - [View Demo](http://getwebem.com/alpha-cms/login.html)  
+####  :rocket: HTML5, CSS3, Bootstrap 3.3, JavaScript ES5
+ - $ : `git clone https://github.com/getwebem/Bootstrap-shopping-store.git`
+ - $ : `cd https://github.com/getwebem/Bootstrap-shopping-store.git`
+ - $ : `Brackets .`
+ - Open: `Index.html`
+ - Open: `Live Preview`  
+ - [View Demo](http://getwebem.com/alpha-cms/login.html)  
 
-<br/><br/>
+:fire: :fire: :fire: :fire: :fire: :fire: :fire: :fire:
+#### How to Use 
+1. Login 'Email address' john.doe@gmail.com
+2. Login 'Password' johndoe
+3. click 'Dashboard', 'Pages', 'Categories', or 'Users'
+4. Navigate the site :whale2::whale2:
+5. Click 'Logout'
+
 ![pic1](https://raw.githubusercontent.com/getwebem/README/master/alpha-cms/Screen%20Shot%202017-08-03%20at%2022.12.51.png)
 <br/><br/>
