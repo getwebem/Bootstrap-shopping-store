@@ -2,7 +2,7 @@
 ### Technologies Used
 ####  :rocket: HTML5, CSS3, Bootstrap 3.3, JavaScript ES5
  - $ : `git clone https://github.com/getwebem/Bootstrap-shopping-store.git`
- - $ : `cd https://github.com/getwebem/Bootstrap-shopping-store.git`
+ - $ : `cd Bootstrap-shopping-store`
  - $ : `Brackets .`
  - Open: `Index.html`
  - Open: `Live Preview`  
