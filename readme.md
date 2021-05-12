@@ -6,7 +6,7 @@
  - $ : `Brackets .`
  - Open: `Index.html`
  - Open: `Live Preview`  
- - [View Demo](http://getwebem.com/alpha-cms/login.html)  
+ - [View Demo](https://kind-bay-0481dd603.azurestaticapps.net/index.html)  
 
 :fire: :fire: :fire: :fire: :fire: :fire: :fire: :fire:
 #### How to Use 
